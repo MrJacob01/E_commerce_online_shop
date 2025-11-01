@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/Screenshot%202025-11-01%20161058.png?raw=true)
+![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/2.png?raw=true)
+![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/3.png?raw=true)
+![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/4.png?raw=true)
+![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/5.png?raw=true)
+![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/6.png?raw=true)
+![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/7.png?raw=true)
+![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/8.png?raw=true)
 
 
 
