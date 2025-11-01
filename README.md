@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![Shop Screenshot](public/template_photo/2.png)
+![Shop Screenshot](.public/template_photo/2.png)
 
 
 
