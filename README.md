@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![Shop Screenshot](https://github.com/MrJacob01/E_commerce_online_shop/public/template_photo/2.png?raw=true)
+![Shop Screenshot](public/template_photo/2.png?raw=true)
 
 
 
