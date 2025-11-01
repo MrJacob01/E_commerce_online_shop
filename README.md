@@ -1,10 +1,6 @@
 # Getting Started with Create React App
 
-![Shop Screenshot](.public/template_photo/2.png)
-
-
-
-
+![Shop Screenshot](https://raw.githubusercontent.com/MrJacob01/E_commerce_online_shop/main/public/template_photo/2.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
