@@ -1,12 +1,13 @@
 # Getting Started with Create React App
 
-![1](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/2.png?raw=true)
-![2](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/3.png?raw=true)
-![3](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/4.png?raw=true)
-![4](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/5.png?raw=true)
-![5](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/6.png?raw=true)
-![6](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/7.png?raw=true)
-![7](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/8.png?raw=true)
+![alt text](https://raw.githubusercontent.com/MrJacob01/E_commerce_online_shop/main/public/template_photo/2.png)
+![alt text](https://raw.githubusercontent.com/MrJacob01/E_commerce_online_shop/main/public/template_photo/3.png)
+![alt text](https://raw.githubusercontent.com/MrJacob01/E_commerce_online_shop/main/public/template_photo/4.png)
+![alt text](https://raw.githubusercontent.com/MrJacob01/E_commerce_online_shop/main/public/template_photo/5.png)
+![alt text](https://raw.githubusercontent.com/MrJacob01/E_commerce_online_shop/main/public/template_photo/6.png)
+![alt text](https://raw.githubusercontent.com/MrJacob01/E_commerce_online_shop/main/public/template_photo/7.png)
+![alt text](https://raw.githubusercontent.com/MrJacob01/E_commerce_online_shop/main/public/template_photo/8.png)
+
 
 
 
