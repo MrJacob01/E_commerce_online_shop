@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/2.png?raw=true) 
-![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/3.png?raw=true) 
-![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/4.png?raw=true)
+![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/2.png?raw=true).
+![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/3.png?raw=true).
+![alt text](https://github.com/MrJacob01/E_commerce_online_shop/blob/b19214f290bec1412f874558493594f34baad554/public/template_photo/4.png?raw=true).
 
 
 
